@@ -2,7 +2,7 @@
 
 Data release supporting:
 
-- _Parameter estimation of binary black holes in the endpoint of the up-down instability_. Viola De Renzis, Davide Gerosa, Matthew Mould, Riccardo Buscicchio, Lorenzo Zanga. [arXiv:2304.13063](https://arxiv.org/abs/2304.13063).
+- _Parameter estimation of binary black holes in the endpoint of the up-down instability_. Viola De Renzis, Davide Gerosa, Matthew Mould, Riccardo Buscicchio, Lorenzo Zanga. Phys. Rev. D 108, 024024 (2023). [arXiv:2304.13063](https://arxiv.org/abs/2304.13063).
 
 ## Credits
 
